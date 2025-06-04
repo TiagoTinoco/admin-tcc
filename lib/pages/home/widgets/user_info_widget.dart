@@ -44,9 +44,13 @@ class _UserInfoWidgetState extends State<UserInfoWidget> {
                   mainAxisAlignment: MainAxisAlignment.start,
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
-                    CircleAvatar(
-                      backgroundColor: widget.areaColor.withOpacity(0.5),
-                      radius: 120,
+                    ClipOval(
+                      child: Image.asset(
+                        'assets/images/profile.png',
+                        width: 240,
+                        height: 240,
+                        fit: BoxFit.cover,
+                      ),
                     ),
                     const SizedBox(height: 8),
                     Text(
