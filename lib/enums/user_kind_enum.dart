@@ -1,0 +1,4 @@
+enum UserKindEnum {
+  student,
+  manager,
+}

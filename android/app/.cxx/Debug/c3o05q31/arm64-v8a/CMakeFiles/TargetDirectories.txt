@@ -1,0 +1,2 @@
+T:/STUDIEs/DARTs/admin_tcc/android/app/.cxx/Debug/c3o05q31/arm64-v8a/CMakeFiles/edit_cache.dir
+T:/STUDIEs/DARTs/admin_tcc/android/app/.cxx/Debug/c3o05q31/arm64-v8a/CMakeFiles/rebuild_cache.dir

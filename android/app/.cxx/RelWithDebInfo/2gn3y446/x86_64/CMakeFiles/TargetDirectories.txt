@@ -1,0 +1,2 @@
+T:/STUDIEs/DARTs/admin_tcc/android/app/.cxx/RelWithDebInfo/2gn3y446/x86_64/CMakeFiles/edit_cache.dir
+T:/STUDIEs/DARTs/admin_tcc/android/app/.cxx/RelWithDebInfo/2gn3y446/x86_64/CMakeFiles/rebuild_cache.dir

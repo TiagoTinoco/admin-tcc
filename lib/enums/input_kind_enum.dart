@@ -1,0 +1,4 @@
+enum InputKindEnum {
+  border,
+  invisible,
+}

@@ -1,0 +1,4 @@
+enum SignInEnum {
+  email,
+  password,
+}
